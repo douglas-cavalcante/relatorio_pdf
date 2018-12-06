@@ -1,0 +1,12 @@
+{
+    "name": "douglas/relatorio_com_m-pdf",
+    "authors": [
+        {
+            "name": "douglas-cavalcante",
+            "email": "henriquedouglas2803@gmail.com"
+        }
+    ],
+    "require": {
+        "mpdf/mpdf": "^7.1"
+    }
+}
